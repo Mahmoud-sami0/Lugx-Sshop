@@ -16,7 +16,7 @@ This project is a personal learning exercise in **web development fundamentals**
 
 ---
 
-##You can view the project live on GitHub Pages or directly from the repository here:
+## You can view the project live on GitHub Pages or directly from the repository here:
 
 [View the Project on GitHub](https://mahmoud-sami0.github.io/Lugx-shop/)
 ---
