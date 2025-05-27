@@ -16,23 +16,9 @@ This project is a personal learning exercise in **web development fundamentals**
 
 ---
 
-## How to View the Project
+##You can view the project live on GitHub Pages or directly from the repository here:
 
-To view this project locally on your machine, follow these simple steps:
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/Mahmoud-sami0/Lugx-shop.git](https://github.com/Mahmoud-sami0/Lugx-shop.git)
-    ```
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd YOUR_REPOSITORY_NAME
-    ```
-
-3.  **Open the `index.html` file:**
-    Locate the `index.html` file within the project directory and open it with your preferred web browser (e.g., Chrome, Firefox, Edge).
-
+[View the Project on GitHub](https://mahmoud-sami0.github.io/Lugx-shop/)
 ---
 
 ## Why This Project?
