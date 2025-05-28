@@ -15,7 +15,7 @@ This project is a personal learning exercise in **web development fundamentals**
     * It is **not responsive** and is designed for desktop viewing only. This was intentional to focus purely on HTML and CSS without the added complexity of responsive design at this stage of learning.
 
 ---
-##You can view the project live on GitHub Pages or directly from the repository here:
+You can view the project live on GitHub Pages or directly from the repository here:
 [View the Project on GitHub](https://Mahmoud-sami0.github.io/Lugx-shop/)
 ---
 
